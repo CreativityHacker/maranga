@@ -70,12 +70,11 @@ Please use the bug reporting tool inside the app — it's in the main menu. That
 
 For that reason, issues are turned off on this repo.
 
-## Elsewhere
+## Join me in the Studio Commons
 
-- **[play.creativityhacker.ca](https://play.creativityhacker.ca/)** — challenges, download, and the
-  rest of the studio
-- **[patreon.com/CreativityHacker](https://patreon.com/CreativityHacker)** — the Studio Commons is
-  free to join: strategy posts, shared challenges, and a say in what gets built next
+I think of Patreon as a social platform for two kinds of people: those who build stuff and those who enjoy the things they build. But everything I post there is in the free section. Strategy tips for Maranga, open challenges where people all play the same puzzle board and then discuss it. Even behind-the-scenes details about other things I'm working on. All free. 
+
+Check it out **[on Patreon](https://patreon.com/CreativityHacker)**.
 
 ---
 
